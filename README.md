@@ -4,6 +4,7 @@ MiniSnapchat is a Computer Vision based AR filter application built using Python
 It applies real-time face filters and supports interactive hand gesture detection for dynamic effects.
 
 ---
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange)
