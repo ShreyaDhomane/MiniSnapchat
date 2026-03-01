@@ -41,7 +41,7 @@ It applies real-time face filters and supports interactive hand gesture detectio
 ---
 ## 🎥 Demo
 
-![MiniSnapchat Demo](demo.gif)
+![MiniSnapchat Demo](Minisnap_output.gif)
 
 ## ⚙️ Installation
 
