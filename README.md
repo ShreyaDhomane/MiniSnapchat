@@ -39,6 +39,9 @@ It applies real-time face filters and supports interactive hand gesture detectio
 6. Interactive hover-based UI to switch filters.
 
 ---
+## 🎥 Demo
+
+![MiniSnapchat Demo](demo.gif)
 
 ## ⚙️ Installation
 
